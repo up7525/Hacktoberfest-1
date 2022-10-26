@@ -121,9 +121,6 @@ public class FibHeap {
 
         H.extractMin();
         H.printList(H.min);
-
-        H.extractMin();
-        H.printList(H.min);
     }
 }
 
